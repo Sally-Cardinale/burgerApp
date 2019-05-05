@@ -23,5 +23,5 @@ database management as well as other technologies such as Handlebar templating.
 
 To get help with this project the user can refer to the documentation in npm and/or mySQL.
 
-![burgerApp](/images/BurgerApp.png)
+![burgerApp](/img/BurgerApp.png)
 
