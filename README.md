@@ -2,7 +2,7 @@
 
 burgerApp is a restaurant app that lets users select burgers they would like to eat. When a
 user submits a burger name, the app displays the burger on the left side of the page waiting
-to be devoured. Each buger has a dollar sign button ($), when this button is cliced the burger
+to be devoured. Each buger has a dollar sign button ($), when this button is clicked the burger
 will move to the right side of the page. The app will store every burger in a database whether 
 it is devoured or not. 
 
